@@ -1,0 +1,91 @@
+.container{
+width: 800px;
+height:900px;
+background: yellow;
+margin: 0 auto;
+}
+.header{
+width: 100%;
+height:100px;
+background: #778cc8;
+}
+.logo{
+width: 20%;
+height:100px;
+background: #6ba765;
+}
+.menu{
+width: 80%;
+height:100px;
+background: #296c22;
+}
+.middle{
+width: 100%;
+height:500px;
+background: #5aafad;
+}
+.m1{
+width: 20%;
+height:500px;
+background: #3d9cd8;
+float: left;
+}
+.m2{
+width: 80%;
+height:250px;
+background: #a758eb;
+float: left;
+}
+.m21{
+width: 100%;
+height:125px;
+background: #5b2788;
+float: left;
+}
+.m22{
+width: 100%;
+height:125px;
+background: #d62361;
+float: left;
+}
+.m3{
+width: 80%;
+height:250px;
+background: #63c033;
+float: right;
+}
+.m31{
+width: 50%;
+height:250px;
+background: #f0d01c;
+float: left;
+}
+.m32{
+width: 50%;
+height:250px;
+background: #15f1ea;
+float: left;
+}
+
+.description{
+width: 100%;
+height:200px;
+background: #1cf068;
+}
+.d1{
+width: 50%;
+height:200px;
+background: #5959f2;
+float: left;
+}
+.d2{
+width: 50%;
+height:200px;
+background: #f14a15;
+float: left;
+}
+.footer{
+width: 100%;
+height:100px;
+background: #ddf115;
+}
